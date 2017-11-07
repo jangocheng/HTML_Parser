@@ -1,0 +1,11 @@
+C:\Users\Artur\Desktop\ParserHTML\HTML_Parser\bin\Debug\HTML_Parser.exe.config
+C:\Users\Artur\Desktop\ParserHTML\HTML_Parser\bin\Debug\HTML_Parser.exe
+C:\Users\Artur\Desktop\ParserHTML\HTML_Parser\bin\Debug\HTML_Parser.pdb
+C:\Users\Artur\Desktop\ParserHTML\HTML_Parser\bin\Debug\AngleSharp.dll
+C:\Users\Artur\Desktop\ParserHTML\HTML_Parser\bin\Debug\AngleSharp.xml
+C:\Users\Artur\Desktop\ParserHTML\HTML_Parser\obj\Debug\HTML_Parser.csprojResolveAssemblyReference.cache
+C:\Users\Artur\Desktop\ParserHTML\HTML_Parser\obj\Debug\HTML_Parser.MainForm.resources
+C:\Users\Artur\Desktop\ParserHTML\HTML_Parser\obj\Debug\HTML_Parser.Properties.Resources.resources
+C:\Users\Artur\Desktop\ParserHTML\HTML_Parser\obj\Debug\HTML_Parser.csproj.GenerateResource.Cache
+C:\Users\Artur\Desktop\ParserHTML\HTML_Parser\obj\Debug\HTML_Parser.exe
+C:\Users\Artur\Desktop\ParserHTML\HTML_Parser\obj\Debug\HTML_Parser.pdb
